@@ -1,0 +1,80 @@
+$nav-height: 50px;
+
+
+
+.navbar-default {
+    border: none;
+    border-bottom: 1px solid $clr-primary-darker;
+    background-color: $clr-primary;
+
+    &#index-nav {
+        margin-bottom: 0;
+    }
+
+    .navbar-brand {
+        color: $clr-light;
+        font-family: "Arial";
+
+        &:hover, &:focus {
+            color: $clr-gray-light;
+        }
+    }
+
+    .navbar-nav li {
+        a {
+            color: $clr-light;
+
+            &:hover, &:focus {
+                color: $clr-gray-light;
+                background-color: $clr-primary-darker;
+            }
+        }
+
+        &.active a {
+            color: $clr-light;
+            background-color: $clr-primary-dark;
+
+            &:hover, &:focus {
+                color: $clr-gray-light;
+                background-color: $clr-primary-darker;
+            }
+        }
+
+        &.highlight a {
+            background-color: $clr-contrast;
+
+            &:hover, &:focus {
+                background-color: $clr-contrast-dark;
+            }
+        }
+
+        &:last-of-type {
+            padding-right: 40px;
+        }
+    }
+
+    .navbar-nav.navbar-right li {
+        a {
+            color: $clr-light;
+
+            &:hover, &:focus , &.active{
+                color:#FF2D2E;
+                background-color: $clr-primary;
+            }
+        }
+    }
+}
+
+
+
+#nav-avatar {
+    width: $nav-height;
+    height: $nav-height;
+    float: right;
+    display: none;
+
+    img {
+        width: $nav-height;
+        height: $nav-height;
+    }
+}

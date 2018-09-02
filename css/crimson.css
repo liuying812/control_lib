@@ -1,0 +1,198 @@
+
+body::-webkit-scrollbar-thumb {
+  background-color: #ff2d2d;
+}
+/* End Scroll */
+/* Button*/
+.btn-kotoby,
+.btn-kotobydown{
+    border: 1px solid #ff2d2d;
+    color: #ff2d2d;
+    
+}
+/* End Botton*/
+/*--------------------------------------------
+              Start Navbar
+---------------------------------------------*/
+.navbar-brand{
+}
+.navbar-brand span {
+    color: #fff;
+}
+.sub-container h1 span{
+    color: #ff2d2d;
+}
+/*---------------------------------------------
+                End Navbar
+-----------------------------------------------*/
+
+/*---------------------------------------------
+               Start Home Page 
+-----------------------------------------------*/
+.angle-down i{
+    color: #ff2d2d;
+}
+
+/* -----------------------------------------------
+               End Home Page
+--------------------------------------------------*/
+
+/*------------------------------------------------
+              start about Page 
+--------------------------------------------------*/
+.about .container h2:before{
+    border-color: transparent transparent #ff2d2d;
+}
+.about .container a:hover{
+    color: #ff2d2d;
+}
+/*--------------------------------------------------
+               End about Page
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+               Start Service
+-----------------------------------------------------*/
+/* Width For After In Service*/
+.service .container h2:before{
+    border-color: transparent transparent #ff2d2d;
+}
+.service i{
+    color: #ff2d2d;
+}
+/*----------------------------------------------------
+                  End Service
+------------------------------------------------------*/
+
+/*----------------------------------------------------
+                  Start Portfolio 
+------------------------------------------------------*/
+
+/* Width For After In Portfolio*/
+.portfoliopage h2:before{
+    border-color: transparent transparent #ff2d2d;
+}
+.simplefilter li{
+    border: 1px solid #ff2d2d;
+}
+.simplefilter li.active{
+    background: #ff2d2d;
+    border: 1px solid #ff2d2d;
+}
+.box .box-content:before{
+    border-left: 1px solid #ff2d2d;
+    border-right: 1px solid #ff2d2d;
+}
+.box:hover .box-content:before{
+    top: 15px;
+    opacity: 1;
+}
+.box .box-content:after{
+    border-top: 1px solid #ff2d2d;
+    border-bottom: 1px solid #ff2d2d;
+}
+.box .icon li a:hover{
+    background: #ff2d2d;
+}
+/*------------------------------------------------------
+                End Portfolio
+--------------------------------------------------------*/
+.TESTIMONIALS h2:before{
+    border-color: transparent transparent #ff2d2d;
+}
+#quote-carousel .carousel-indicators .active {
+    background: #ff2d2d;
+}
+.item blockquote {
+    border-left: 5px solid #ff2d2d;
+    margin: 0;
+}
+.item blockquote p:before {
+    color: #ff2d2d;
+}
+blockquote footer,
+blockquote small,
+blockquote .small {
+    color: #ff2d2d;
+}
+/*------------------------------------------------------
+                Start Contact
+--------------------------------------------------------*/
+/* Width For After In Contact*/
+.contact .container h2:after{
+    border-color: transparent transparent #ff2d2d;
+}
+.contact form .btn-pr{
+    background: #ff2d2d;
+    color: #fff;
+    border: 1px solid #ff2d2d;
+}
+.contact i{
+    color: #ff2d2d;
+}
+/* bootstrap Contact */
+.form-control {
+    border-bottom: 1px solid #ff2d2d;
+}
+.form-control:focus {
+     border-color: #ff2d2d; 
+}
+/*-------------------------------------------------------
+                 End Contact 
+--------------------------------------------------------*/
+
+/*------------------------------------------------------
+                 Start footer
+--------------------------------------------------------*/
+.icon-top{
+    background: #ff2d2d;
+}
+.icon-top:hover{
+    color: #fff;
+}
+/*-------------------------------------------------------
+                  End footer
+--------------------------------------------------------*/
+
+/*------------------------------------------------------
+                Start General
+--------------------------------------------------------*/
+.contact form .btn-pr:hover,
+.btn-pr:hover{
+    background: rgba(255, 255, 255, 0.44);
+    color: #ff2d2d;
+    border: 1px solid #ff2d2d;
+}
+/*-----------------------------------------------------------
+                        End General 
+------------------------------------------------------------- */
+
+/*------------------------------------------------------------
+                        Start Loading 
+--------------------------------------------------------------*/
+.loader{
+    background: #ff2d2d;
+}
+.loader:after{
+    color: #ff2d2d;
+}
+.dot1, .dot2 {
+    background-color: #ff2d2d;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
+.dot1, .dot2 {
+    background-color: #ff2d2d;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
+h2 strong span,
+h3  span{
+    color: #ff2d2d;
+}
+
+.contact .container h2:before{
+    background-color: #ff2d2d;
+}

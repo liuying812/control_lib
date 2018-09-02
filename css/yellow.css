@@ -1,0 +1,218 @@
+
+body::-webkit-scrollbar-thumb {
+  background-color: #ffd700;
+}
+/* End Scroll */
+/* Button*/
+.btn-kotoby,
+.btn-kotobydown{
+    border: 1px solid #ffd700;
+    color: #ffd700;
+    
+}
+/* End Botton*/
+/*--------------------------------------------
+              Start Navbar
+---------------------------------------------*/
+.navbar-brand span {
+    color: #ffd700;
+}
+/*---------------------------------------------
+                End Navbar
+-----------------------------------------------*/
+
+/*---------------------------------------------
+               Start Home Page 
+-----------------------------------------------*/
+.angle-down i{
+    color: #ffd700;
+}
+
+/* -----------------------------------------------
+               End Home Page
+--------------------------------------------------*/
+
+/*------------------------------------------------
+              start about Page 
+--------------------------------------------------*/
+.about .container h2:before{
+    border-color: transparent transparent #ffd700;
+}
+.about .container a:hover{
+    color: #ffd700;
+}
+/*--------------------------------------------------
+               End about Page
+----------------------------------------------------*/
+
+/*---------------------------------------------------
+               Start Service
+-----------------------------------------------------*/
+/* Width For After In Service*/
+.service .container h2:before{
+    border-color: transparent transparent #ffd700;
+}
+.service i{
+    color: #ffd700;
+}
+/*----------------------------------------------------
+                  End Service
+------------------------------------------------------*/
+
+/*----------------------------------------------------
+                  Start Portfolio 
+------------------------------------------------------*/
+
+/* Width For After In Portfolio*/
+.portfoliopage h2:before{
+    border-color: transparent transparent #ffd700;
+}
+.simplefilter li{
+    border: 1px solid #ffd700;
+}
+.simplefilter li.active{
+    background: #ffd700;
+    border: 1px solid #ffd700;
+}
+.box .box-content:before{
+    border-left: 1px solid #ffd700;
+    border-right: 1px solid #ffd700;
+}
+.box:hover .box-content:before{
+    top: 15px;
+    opacity: 1;
+}
+.box .box-content:after{
+    border-top: 1px solid #ffd700;
+    border-bottom: 1px solid #ffd700;
+}
+.box .icon li a:hover{
+    background: #ffd700;
+}
+/*------------------------------------------------------
+                End Portfolio
+--------------------------------------------------------*/
+.TESTIMONIALS h2:before{
+    border-color: transparent transparent #ffd700;
+}
+#quote-carousel .carousel-indicators .active {
+    background: #ffd700;
+}
+.item blockquote {
+    border-left: 5px solid #ffd700;
+    margin: 0;
+}
+.item blockquote p:before {
+    color: #ffd700;
+}
+blockquote footer,
+blockquote small,
+blockquote .small {
+    color: #ffd700;
+}
+/*------------------------------------------------------
+                Start Contact
+--------------------------------------------------------*/
+/* Width For After In Contact*/
+.contact .container h2:after{
+    border-color: transparent transparent #ffd700;
+}
+.contact form .btn-pr{
+    background: #ffd700;
+    color: #fff;
+    border: 1px solid #ffd700;
+}
+.contact i{
+    color: #ffd700;
+}
+/* bootstrap Contact */
+.form-control {
+    border-bottom: 1px solid #ffd700;
+}
+.form-control:focus {
+     border-color: #ffd700; 
+}
+/*-------------------------------------------------------
+                 End Contact 
+--------------------------------------------------------*/
+
+/*------------------------------------------------------
+                 Start footer
+--------------------------------------------------------*/
+footer{
+    background: #333;
+    color: #fff;
+    padding: 76px 0;
+}
+footer p{
+    font-size: 15px;
+    max-width: 62%;
+    text-align: center;
+    margin: 0 auto;
+    color: #eee;
+}
+footer p span {
+    color: #ffd700;
+    text-decoration:underline;
+}
+footer p span:hover {
+    color: #ffd700;
+    cursor: pointer;
+}
+.icon-top{
+    background: #ffd700;
+}
+.icon-top:hover{
+    color: #fff;
+}
+/*-------------------------------------------------------
+                  End footer
+--------------------------------------------------------*/
+
+/*------------------------------------------------------
+                Start General
+--------------------------------------------------------*/
+.contact form .btn-pr:hover,
+.btn-pr:hover{
+    background: rgba(255, 255, 255, 0.44);
+    color: #ffd700;
+    border: 1px solid #ffd700;
+}
+/*-----------------------------------------------------------
+                        End General 
+------------------------------------------------------------- */
+
+/*------------------------------------------------------------
+                        Start Loading 
+--------------------------------------------------------------*/
+.loader{
+    background: #ffd700;
+}
+.loader:after{
+    color: #ffd700;
+}
+.dot1, .dot2 {
+    background-color: #ffd700;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
+.dot1, .dot2 {
+    background-color: #ffd700;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
+.dot1, .dot2 {
+    background-color: #ffd700;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
+
+.dot1, .dot2 {
+    background-color: #ffd700;
+}
+/*-------------------------------------------------------------
+                      End Loading
+---------------------------------------------------------------*/
